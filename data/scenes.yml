@@ -32,6 +32,21 @@ en:
         pariatur pariatur occaecat eiusmod magna aute aliqua exercitation.
         Exercitation et amet nisi sunt id sit ex eiusmod sit deserunt.
       icon: fa-heart
+    - coverImage: https://cdn.searchenginejournal.com/wp-content/uploads/2019/04/shutterstock_1324254404.png
+      description: >-
+        The CIG team is a bi-partisan, diverse group of former public officials,
+        agency professionals and communications experts with decades of
+        experience at all levels of government. CIG’s clients benefit from our
+        team’s significant relationships with both Democrat and Republican
+        elected officials throughout the State and our ability to understand and
+        manage complex issues that impact your bottom line
+
+        Our diverse team gives CIG a distinct advantage as our staff is ultimately representative of our diverse state, our diverse communities and the diverse State Legislature and Administration, and brings that perspective to the table on for every CIG client.
+
+        CIG’s principals Gene Mulroy and Gerry Gibbs are well-known, respected government affairs professionals who have decades of experience delivering tangible public affairs/business development results for clients across a range of industries. Both Gene and Gerry have been listed for years as the top policymakers and government relations professionals by ROI-New Jersey and NJBIZ.
+      name: "test "
+      cSlug: s3
+      icon: "1"
 fr:
   title: <span>Solutions</span> by Industry
   backgroundTitle: Welcome
