@@ -7,7 +7,7 @@ en:
     → Edit everything with no single line of code.
     → It's free and open-source!
   image: /media/martin-pecheur-par-Vanessa-Belleperche.jpg
-  copyright: "  © 2022 - Capital Impact Group LLC"
+  copyright: "  © 2022 - Capital Impact Group llc"
   register: cignj.com
   registerUrl: https://roneo.org/en
 fr:
@@ -15,6 +15,6 @@ fr:
   title: Remix, un <span>theme pour Hugo</span> branché sur <span>Netlify CMS</span>
   slogan: Lorem magna eiusmod ea eu irure exercitation non incididunt.
   shortDescription: « Quis do pariatur quis nostrud elit in»
-  copyright: "  © 2022 - Capital Impact Group LLC"
+  copyright: "  © 2022 - Capital Impact Group llc"
   register: cignj.com
   registerUrl: https://roneo.org/en
