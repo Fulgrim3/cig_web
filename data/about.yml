@@ -1,20 +1,22 @@
 en:
   title: <span>About</span>
   backgroundTitle: About
-  portText:
+  portText: null
   items:
-    - icon: fa-award
-      title: Lorem ipsum dolor sit amet
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
-    - icon: fa-compass
-      title: "We are on your side."
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
-    - icon: fa-leaf
-      title: We care.
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: '"fa-solid fa-pen-fancy"'
+      title: who we are
+      content: CIG is a full-service, diverse public affairs and business development
+        firm made up of experts with decades of public and private sector
+        experience.
+    - icon: '"fa-user-tie"'
+      title: what we do
+      content: We advocate for our clients at all levels of government on a variety of
+        legislative, regulatory and business development issues.
+    - icon: '"fa-solid fa-buildings"'
+      title: our clients
+      content: Our clients encompass a wide variety of Fortune 500 clients, non-profit
+        groups, small businesses, entrepreneurs, government and political
+        organizations and industry associations.
 fr:
   title: <span>À propos</span>
   backgroundTitle: À propos
